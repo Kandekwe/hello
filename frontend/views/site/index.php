@@ -9,7 +9,7 @@ $this->title = 'My Yii Application';
     <div class="jumbotron">
         <h1>Kobe shop</h1>
 
-        <p class="lead">You have successfully created your Yii-powered application.</p>
+        <p class="lead">Shop with us free shipment</p>
 
         <p><a class="btn btn-lg btn-success" href="http://www.yiiframework.com">Get started with Yii</a></p>
     </div>
@@ -18,21 +18,21 @@ $this->title = 'My Yii Application';
 
         <div class="row">
             <div class="col-lg-4">
-                <h2>SHOES</h2>
+                <h2>STAKEHOLDERS</h2>
 
-                <p><img src="pic_mountain.jpg" alt="Mountain View" style="width:304px;height:228px;"></p>
+                <p></p>
 
                 <p><a class="btn btn-default" href="http://www.yiiframework.com/doc/">Yii Documentation &raquo;</a></p>
             </div>
             <div class="col-lg-4">
-                <h2>T-SHIRT</h2>
+                <h2>OUR MISSION</h2>
 
                 <p></p>
 
                 <p><a class="btn btn-default" href="http://www.yiiframework.com/forum/">Yii Forum &raquo;</a></p>
             </div>
             <div class="col-lg-4">
-                <h2>SANDALS</h2>
+                <h2>OUR TEAM</h2>
 
                 <p></p>
 

@@ -4,8 +4,9 @@
     <?php foreach ($product ->getItems() as $items): ?>
         
     <ul>
-        <li><?= $items->itemname ?> </li>
+        <li><hr>><?= $items->itemname ?> </li>
         <li><?= $items->itemprice ?></li>
+        <li><?= $items->category?></li>
         
     </ul>
     <?php endforeach; ?>
